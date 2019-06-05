@@ -1,26 +1,31 @@
-[
-  {
-    "tier": 1,
-    "name": "Bobby Backhand"
-  },
-  {
-    "tier": 2,
-    "name": "Hank Hillbilly"
-  },
-  {
-    "tier": 3,
-    "name": "Spanks Smith"
-  },
-  {
-    "tier": 1,
-    "name": "Yehooty Cowboi"
-  },
-  {
-    "tier": 2,
-    "name": "Rowdy Randy"
-  },
-  {
-    "tier": 3,
-    "name": "Neat McPeterson"
+{
+  "posts": [
+    {
+      "tier": 1,
+      "name": "Bobby Backhand"
+    },
+    {
+      "tier": 2,
+      "name": "Hank Hillbilly"
+    },
+    {
+      "tier": 3,
+      "name": "Spanks Smith"
+    },
+    {
+      "tier": 1,
+      "name": "Yehooty Cowboi"
+    },
+    {
+      "tier": 2,
+      "name": "Rowdy Randy"
+    },
+    {
+      "tier": 3,
+      "name": "Neat McPeterson"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
