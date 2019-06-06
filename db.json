@@ -2,55 +2,55 @@
   "posts": [
     {
       "tier": 1,
-      "name": "Bobby Backhand"
+      "name": "Bobby Backhand",
       "details":
       {
-        "hitpoints": 100
+        "hitpoints": 100,
         "attack": "Fronthand"
       }
     },
     {
       "tier": 2,
-      "name": "Hank Hillbilly"
+      "name": "Hank Hillbilly",
       "details":
       {
-        "hitpoints": 80
+        "hitpoints": 80,
         "attack": "Moon Shine"
       }
     },
     {
       "tier": 3,
-      "name": "Spanks Smith"
+      "name": "Spanks Smith",
       "details":
       {
-        "hitpoints": 50
+        "hitpoints": 50,
         "attack": "Constrict"
       }
     },
     {
       "tier": 1,
-      "name": "Yehooty Cowboi"
+      "name": "Yehooty Cowboi",
       "details":
       {
-        "hitpoints": 120
+        "hitpoints": 120,
         "attack": "Yeet haw"
       }
     },
     {
       "tier": 2,
-      "name": "Rowdy Randy"
+      "name": "Rowdy Randy",
       "details":
       {
-        "hitpoints": 90
+        "hitpoints": 90,
         "attack": "Shimmy"
       }
     },
     {
       "tier": 3,
-      "name": "Neat McPeterson"
+      "name": "Neat McPeterson",
       "details":
       {
-        "hitpoints": 60
+        "hitpoints": 60,
         "attack": "Neature Walk"
       }
     }
