@@ -3,26 +3,56 @@
     {
       "tier": 1,
       "name": "Bobby Backhand"
+      "details":
+      {
+        "hitpoints": 100
+        "attack": "Fronthand"
+      }
     },
     {
       "tier": 2,
       "name": "Hank Hillbilly"
+      "details":
+      {
+        "hitpoints": 80
+        "attack": "Moon Shine"
+      }
     },
     {
       "tier": 3,
       "name": "Spanks Smith"
+      "details":
+      {
+        "hitpoints": 50
+        "attack": "Constrict"
+      }
     },
     {
       "tier": 1,
       "name": "Yehooty Cowboi"
+      "details":
+      {
+        "hitpoints": 120
+        "attack": "Yeet haw"
+      }
     },
     {
       "tier": 2,
       "name": "Rowdy Randy"
+      "details":
+      {
+        "hitpoints": 90
+        "attack": "Shimmy"
+      }
     },
     {
       "tier": 3,
       "name": "Neat McPeterson"
+      "details":
+      {
+        "hitpoints": 60
+        "attack": "Neature Walk"
+      }
     }
   ],
   "profile": {
