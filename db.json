@@ -57,5 +57,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "challenger":{
+    "name":"Gabbs",
+    "description":"The fearful protected"
   }
 }
